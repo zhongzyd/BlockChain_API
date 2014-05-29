@@ -2,7 +2,7 @@
 #在python3.4环境下可以正确运行
 #调用get_days_needed_to_redo_the_block_chain()即可得到在当前算力下，重做整个区块链所需的天数
 #在算力上升的情况下，得出的天数会偏高，在算力下降的情况下，得出的天数会偏低
-#需要联网，因为需要调用blockchain.info的API，
+#需要联网，因为需要调用blockchain.info的API来取得区块的数据，
 #请耐心等待，需要几分钟时间才能运行完
 
 
